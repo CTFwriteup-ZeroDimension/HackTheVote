@@ -1,4 +1,4 @@
-# TrumpTrump
+# TrumpTrump (crypto 100)
 ![](trump.jpg)  
 Trump says that he never signs his picture and we get e, n, and a picture of Trump. It comes directly to us that the sign is the signature of RSA. A signature is to calculate s^d mod n for some s. The server provides the signature service but doesn't accept Trump's picture. We translate the bytes of Trump's picture into a big integer and module it by n. When we send the integer to the server, it refuses to sign, so we know that it's the number to sign. After finding its prime factors, we can represent the number into to integer.
 ```

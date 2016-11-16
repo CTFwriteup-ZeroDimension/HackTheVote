@@ -1,4 +1,4 @@
-# Best RSA
+# Best RSA (crypto 250)
 ## Theorem and Lemma
 1. Euler's theorem:
 The theorem gives that a ^ phi(n) = 1 mod n  
